@@ -1,0 +1,47 @@
+{
+  "candidates":
+  [
+    {
+      "id": 1,
+      "name": "Candidate 1",
+      "address": "Address 1",
+      "phone": "8324732984"
+      },
+    {
+      "id": 2,
+      "name": "Candidate 2",
+      "address": "Address 2",
+      "phone": "6753421899"
+      },
+    {
+      "id": 3,
+      "name": "Candidate 3",
+      "address": "Address 3",
+      "phone": "78326392933"
+      },
+    {
+      "id": 4,
+      "name": "Candidate 4",
+      "address": "Address 4",
+      "phone": "+9826320201"
+      },
+    {
+      "id": 5,
+      "name": "Candidate 5",
+      "address": "Address 5",
+      "phone": "0539821756"
+      },
+    {
+      "id": 6,
+      "name": "Candidate 6",
+      "address": "Address 6",
+      "phone": "2689456787"
+      },
+    {
+      "id": 7,
+      "name": "Candidate 7",
+      "address": "Address 7",
+      "phone": "+91-5623456787"
+    }
+  ]
+}

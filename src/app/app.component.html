@@ -1,0 +1,16 @@
+<h5>Page</h5>
+<p>{{singleRecord['id']}}</p>
+<h5>Candidate Name</h5>
+<p>{{singleRecord['name']}}</p>
+<h5>Address</h5>
+<p>{{singleRecord['address']}}</p>
+<h5>phone</h5>
+<p>{{singleRecord['phone']}}</p>
+
+<br>
+<br>
+
+<div style="text-align: center">
+  <button (click)="onPrev()" [disabled]="parseInt(singleRecord['id']) === 1">Prev</button>
+  <button (click)="OnNext()" [disabled]="singleRecord['id'] === totalPages">Next</button>
+</div>
